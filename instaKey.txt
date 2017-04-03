@@ -1,0 +1,4 @@
+CLIENT INFO
+CLIENT ID	b742ad3e66eb4954ac315e1bd211bd2a
+SUPPORT EMAIL	den.parvadov@gmail.com
+CLIENT STATUS	Sandbox Mode

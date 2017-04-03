@@ -1,0 +1,13 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+import-summary.txt
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+/app/src/test
+/app/src/androidTest
+/app/src/main/java/com/parvadov/denys/instamatcher/instagramSecretKey/
+!/app/src/main/java/com/parvadov/denys/instamatcher/instagramSecretKey/InstagramSecretKey.java
